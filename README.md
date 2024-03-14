@@ -2,7 +2,6 @@
 
 ## Help Keep This Project Going
 With your support, we can sustain this project. If you use this project for work, know that you can contribute financially to its success!
-<br>
 <a href='https://www.paypal.com/donate/?hosted_button_id=YRGDGS6FDLUDL'><img src='https://github.com/orkestral/venom/blob/master/img/Donate-now-button-blue.png' height='117' alt='Donate' /></a>
 
 [![npm version](https://img.shields.io/npm/v/venom-bot.svg?color=green)](https://www.npmjs.com/package/venom-bot)
